@@ -1,0 +1,4 @@
+[
+  "test.py::testProxy",
+  "test.py::testMyProxy"
+]
